@@ -1,0 +1,21 @@
+{
+  "name": "pink-theme",
+  "displayName": "pink-theme",
+  "description": "pink",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "secil-pink-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/secil-pink-theme-color-theme.json"
+      }
+    ]
+  }
+}
